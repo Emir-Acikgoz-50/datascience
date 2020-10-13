@@ -8,7 +8,7 @@ import sklearn.model_selection as splitter
 from sklearn import metrics
 
 # Import data
-df = pd.read_csv('C:\\School\\Blok13\\Project\\Repos\\PostNL\\code\\datasets\\20200904_Sample.csv',  index_col=0, parse_dates=[1])
+df = pd.read_csv('C:\\School\\Blok13\\Project\\Repos\\PostNL\\code\\datasets\\20200904_Sample.csv', index_col=0, parse_dates=[1])
 
 # Manipulate data
 cust_filter = df['cust_id'] == 'klant_1'
@@ -31,6 +31,7 @@ y_pred = model.predict(x_test)
 
 # Evaluate model
 print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
+print('R squarred on test set:', model.score(x_test, y_test))
 
 # Plot the result
 fig, ax = plt.subplots()

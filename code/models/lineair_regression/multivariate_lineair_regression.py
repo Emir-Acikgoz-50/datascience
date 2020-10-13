@@ -9,7 +9,7 @@ from sklearn import metrics
 from sklearn.preprocessing import OneHotEncoder
 
 # Import data
-df = pd.read_csv('C:\\School\\Blok13\\Project\\Repos\\PostNL\\code\\datasets\\20200904_Sample.csv',  index_col=0, parse_dates=[1])
+df = pd.read_csv('C:\\School\\Blok13\\Project\\Repos\\PostNL\\code\\datasets\\20200904_Sample.csv', index_col=0, parse_dates=[1])
 
 # Manipulate data
 cust_filter = df['cust_id'] == 'klant_1'
