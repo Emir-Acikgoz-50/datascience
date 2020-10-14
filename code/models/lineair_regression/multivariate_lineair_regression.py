@@ -51,4 +51,3 @@ fig, ax = plt.subplots()
 plt.scatter(x_test[:, 0], y_test, color='black')
 plt.plot(x_test[:, 0], y_pred, color='blue')
 plt.show()
-
