@@ -8,12 +8,48 @@
 - 5. Communication
 
 
-<h1>Research project</h1>
+<h1>1. Research project</h1>
 
-<h1>Domain knowledge</h1>
+<h1>2. Domain knowledge</h1>
 
-<h1>Predictive analysis</h1>
+<h1>3. Predictive analysis</h1>
 
-<h1>Data preprocessing</h1>
+<h2>3.1. Multi variate regression</h2>
 
-<h1>Communication</h1>
+<h3>3.1.1. Training</h3>
+
+<h3>3.1.2. Evaluation</h3>
+
+<h3>3.1.3. Visualization</h3>
+
+<h2>3.2. Neural networks</h2>
+
+<h3>3.2.1. Training</h3>
+
+<h3>3.2.2. Evaluation</h3>
+
+<h3>3.2.3. Visualization</h3>
+
+<h1>4. Data preprocessing</h1>
+
+Data preprocessing is all about preparing the data in such a way, that the model can produce tangible results. Preprocessing is also about understanding the data you're working with. I've done a couple of things to prepare the data.
+
+<h2>4.1. Data exploration</h2>
+
+
+
+<h2>4.2. Data cleansing</h2>
+
+When it comes to cleaning the data, i haven't realy done much. This is because the dataset was already quite clean. 
+
+<h2>4.3. Data explanation</h2>
+
+
+
+<h2>4.4. Data visualization</h2>
+
+
+
+<h1>5. Communication</h1>
+
+
