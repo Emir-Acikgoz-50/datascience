@@ -8,10 +8,8 @@
 5. Communication
 
 
-<details>
-<summary><h1>1. Research project</h1></summary>
+<h1>1. Research project</h1>
 - task definition
-</details>
 
 <h1>2. Domain knowledge</h1>
 
