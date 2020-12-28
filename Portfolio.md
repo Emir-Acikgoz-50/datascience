@@ -89,8 +89,10 @@ At the first of the project we received a dataset from our project owner. This d
 
 When it comes to cleaning the data, i haven't realy done much. This is because the dataset was already quite clean. For example, the dataset didn't contain any missing or inconsistent values. The only cleansing that i've realy done was converting datatypes and setting the index to a datetime type, for easier time slicing.
 
-  # Read CSV file
-  df_postnl = pd.read_csv('/datc/parcel/notebooks/data/postnl/20201014_300_klanten.csv', parse_dates=[0], index_col=[0])
+```
+# Read CSV file
+df_postnl = pd.read_csv('/datc/parcel/notebooks/data/postnl/20201014_300_klanten.csv', parse_dates=[0], index_col=[0])
+```
 
 <h2>4.3. Data preparation</h2>
 
