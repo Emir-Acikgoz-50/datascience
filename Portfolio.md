@@ -7,9 +7,7 @@
 4. Data preprocessing
 5. Communication
 <details>
-  <summary>
-    <h1>1. Research project</h1>
-   </summary>
+  <summary><h1>1. Research project</h1></summary>
 </details>
 
 
