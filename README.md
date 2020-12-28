@@ -1,5 +1,5 @@
 
-<h1>Inhoudsopgave</h1>
+<h1>Table of content</h1>
 
 - 1. Research project
 - 2. Domain knowledge
