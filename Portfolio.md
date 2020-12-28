@@ -1,11 +1,11 @@
 
 <h1>Table of content</h1>
 
-- 1. Research project
-- 2. Domain knowledge
-- 3. Predictive analysis
-- 4. Data preprocessing
-- 5. Communication
+1. Research project
+2. Domain knowledge
+3. Predictive analysis
+4. Data preprocessing
+5. Communication
 
 <h1>1. Research project</h1>
 
