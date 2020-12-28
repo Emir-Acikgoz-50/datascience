@@ -9,8 +9,8 @@
 
 
 <details>
-  <summary><h1>1. Research project</h1></summary>
-  - task definition
+<summary><h1>1. Research project</h1></summary>
+- task definition
 </details>
 
 <h1>2. Domain knowledge</h1>
