@@ -7,7 +7,8 @@
 4. Data preprocessing
 5. Communication
 <details>
-  <h1><summary>1. Research project</summary></h1>
+  <summary><h1>1. Research project</h1></summary>
+  - task definition
 </details>
 
 
