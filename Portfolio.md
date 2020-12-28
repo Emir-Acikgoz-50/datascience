@@ -6,9 +6,11 @@
 3. Predictive analysis
 4. Data preprocessing
 5. Communication
-
-<h1>1. Research project</h1>
-
+<details>
+  <summary>
+    <h1>1. Research project</h1>
+   </summary>
+</details>
 
 
 <h1>2. Domain knowledge</h1>
