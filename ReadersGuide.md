@@ -16,7 +16,11 @@
 
 
 <h1>1. Research project</h1>
-- task definition
+
+1. Task Definition
+2. Planning
+3. Evaluation
+4. Conclusion
 
 <h1>2. Domain knowledge</h1>
 
