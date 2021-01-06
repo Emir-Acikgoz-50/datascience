@@ -33,7 +33,7 @@ When it comes to the field of data science, there is a lot know. Therefore, this
 
 <h2>2.2. Courses</h2>
 
-- Introduction to Python
+- [Introduction to Python](https://github.com/Rikku77/datascience/blob/master/portfolio/domain_knowledge/DataCamp/introduction_to_python.pdf)
 - Intermediate Python
 - Python Data Science Toolbox (Part 1)
 - Python Data Science Toolbox (Part 2)
