@@ -1,4 +1,4 @@
-<title>Data science personal portfolio</title>
+<h1>Data science personal portfolio</h1>
 
 **Student**: Rick Hagenaar
 **Student ID**: 17141869
