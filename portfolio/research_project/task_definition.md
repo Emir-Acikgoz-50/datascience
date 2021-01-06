@@ -4,7 +4,7 @@ The goal of the project is predicting the amount of packages that PostNL (an e-c
 
 - *How can PostNL apply machine learning models, to predict how many packages need to be proccesed for the next day?*
 
-Subsequently, we also come up with corresponding subquestions. These are:
+Subsequently, we also came up with corresponding subquestions. These are:
 
 1. *What are the most commonly used models for timeseries?*</br>
 2. *Which models are best for our dataset?*</br>
