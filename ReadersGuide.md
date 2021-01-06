@@ -19,21 +19,10 @@
 
 
 
-<h2>1. Task Definition<h2>
-  
-  
-  
-<h2>2. Planning</h2>
-
-
-
-<h2>3. Evaluation</h2>
-
-
-
-<h2>4. Conclusion</h2>
-
-
+1.1. [Task Definition](https://github.com/Rikku77/datascience/blob/master/portfolio/research_project/task_definition.md)
+1.2. [Planning](https://github.com/Rikku77/datascience/blob/master/portfolio/research_project/planning.md)
+1.3. [Evaluation](https://github.com/Rikku77/datascience/blob/master/portfolio/research_project/evaluation.md)
+1.4. [Conclusions](https://github.com/Rikku77/datascience/blob/master/portfolio/research_project/conclusions.md)
 
 <h1>2. Domain knowledge</h1>
 
