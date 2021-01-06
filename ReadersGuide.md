@@ -33,6 +33,8 @@ When it comes to the field of data science, there is a lot know. Therefore, this
 
 <h2>2.2. Courses</h2>
 
+During the first few weeks of the minor there were a number of data science courses we had to follow., which have been provided by DataCamp. I've completed the following courses:
+
 - [Introduction to Python](https://github.com/Rikku77/datascience/blob/master/portfolio/domain_knowledge/DataCamp/introduction_to_python.pdf)
 - [Intermediate Python](https://github.com/Rikku77/datascience/blob/master/portfolio/domain_knowledge/DataCamp/intermediate_python.pdf)
 - [Python Data Science Toolbox (Part 1)](https://github.com/Rikku77/datascience/blob/master/portfolio/domain_knowledge/DataCamp/python_data_science_toolbox_part1.pdf)
