@@ -1,3 +1,10 @@
+<title>Data science personal portfolio</title>
+
+**Student**: Rick Hagenaar
+**Student ID**: 17141869
+**Date**: ...
+
+<h1>Introduction</h1>
 
 <h1>Table of content</h1>
 
