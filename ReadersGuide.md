@@ -19,10 +19,10 @@
 
 
 
-1.1. [Task Definition](https://github.com/Rikku77/datascience/blob/master/portfolio/research_project/task_definition.md)
-1.2. [Planning](https://github.com/Rikku77/datascience/blob/master/portfolio/research_project/planning.md)
-1.3. [Evaluation](https://github.com/Rikku77/datascience/blob/master/portfolio/research_project/evaluation.md)
-1.4. [Conclusions](https://github.com/Rikku77/datascience/blob/master/portfolio/research_project/conclusions.md)
+1.1. [Task Definition](https://github.com/Rikku77/datascience/blob/master/portfolio/research_project/task_definition.md)</br>
+1.2. [Planning](https://github.com/Rikku77/datascience/blob/master/portfolio/research_project/planning.md)</br>
+1.3. [Evaluation](https://github.com/Rikku77/datascience/blob/master/portfolio/research_project/evaluation.md)</br>
+1.4. [Conclusions](https://github.com/Rikku77/datascience/blob/master/portfolio/research_project/conclusions.md)</br>
 
 <h1>2. Domain knowledge</h1>
 
