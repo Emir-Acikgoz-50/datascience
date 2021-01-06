@@ -1,6 +1,6 @@
 <h1>Courses</h1>
 
-During the first few weeks of the minor there were a number of data science courses we had to follow, which have been provided by DataCamp. I've completed the following courses:
+During the first few weeks of the minor there were a number of data science courses i had to follow, which have been provided by DataCamp. I've completed the following courses:
 
 - [Introduction to Python](https://github.com/Rikku77/datascience/blob/master/portfolio/domain_knowledge/DataCamp/introduction_to_python.pdf)
 - [Intermediate Python](https://github.com/Rikku77/datascience/blob/master/portfolio/domain_knowledge/DataCamp/intermediate_python.pdf)
