@@ -33,7 +33,16 @@ When it comes to the field of data science, there is a lot know. Therefore, this
 
 <h2>2.2. Courses</h2>
 
-- Data camp (provide screenshots)
+- Introduction to Python
+- Intermediate Python
+- Python Data Science Toolbox (Part 1)
+- Python Data Science Toolbox (Part 2)
+- Pandas Foundation
+- Introduction to Data Visualization in Python
+- Manipulating DataFrames in Python
+- Data Types for Data Science in Python
+- Cleaning Data in Python
+- Preprocessing for Machine Learning in Python
 
 <h2>2.3. Jargon and terminology</h2>
 
