@@ -28,9 +28,9 @@
 
 When it comes to the field of data science, there is a lot know. Therefore, this section will consist of what i did to get more knowledgable about the topic of data science. First i will give a brief introduction to the subject of domain knoweldge Then i will go into more detail about what did to get to get more knowledgable by describing what courses i followed and what literature i researched. at last i will mention some of the Jargon and terminology i've learned and used.
 
-2.1. [Literature research](https://github.com/Rikku77/datascience/blob/master/portfolio/domain_knowledge/literature_research.md)
-2.2. [Courses](https://github.com/Rikku77/datascience/blob/master/portfolio/domain_knowledge/courses.md)
-2.3. [Jargon and terminology](https://github.com/Rikku77/datascience/blob/master/portfolio/domain_knowledge/jargon_and_terminology.md)
+2.1. [Literature research](https://github.com/Rikku77/datascience/blob/master/portfolio/domain_knowledge/literature_research.md)</br>
+2.2. [Courses](https://github.com/Rikku77/datascience/blob/master/portfolio/domain_knowledge/courses.md)</br>
+2.3. [Jargon and terminology](https://github.com/Rikku77/datascience/blob/master/portfolio/domain_knowledge/jargon_and_terminology.md)</br>
 
 - Mention jargon that i've used and learned about (look at the summaries)
 
