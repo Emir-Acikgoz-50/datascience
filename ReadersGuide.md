@@ -13,6 +13,7 @@
 3. Predictive analysis
 4. Data preprocessing
 5. Communication
+6. REflection and Evaluation
 
 
 <h1>1. Research project</h1>
@@ -109,4 +110,8 @@ df_postnl = pd.read_csv('/datc/parcel/notebooks/data/postnl/20201014_300_klanten
 
 
 <h1>5. Communication</h1>
+
+
+
+<h1>6. Reflection and Evaluation</h1>
 
