@@ -1,4 +1,5 @@
-<h1>Evaluation</h1>
+<h1>Project Evaluation</h1>
 
-- What went well
-- What didn't go well
+
+
+**Keep in mind**, that this evaluation strictly covers the research project. For a more general evaluation, see ["Evaluation and Reflection"](https://github.com/Rikku77/datascience/blob/master/portfolio/evaluation_and_reflection/evaluation_and_reflection.md).
