@@ -20,7 +20,7 @@ This dataset includes data of 5 different customers from January 2015 up until J
 
 For my initial exploration, before we got the bigger dataset, i started to make exploratory visualizations of each customer to understand general patterns in the amount of packages that needed to be processed for each customer. I started out with plotting the average amount of packages for each day in the week, for each customer (***see notebook 1***). Because of these visualizations, i knew that the weekend (especially saturday) was something to keep in mind with regarding the amount of processed packages. For example, i the following graph, you can see that the average amount of packages on Saturday for this customer is almost zero, which is reoccurend for other customers as well. 
 
-[weekly_klant1](https://github.com/Rikku77/datascience/blob/master/portfolio/data_preprocessing/images/gem_wekelijks_klant1.png)
+![weekly_klant1](https://github.com/Rikku77/datascience/blob/master/portfolio/data_preprocessing/images/gem_wekelijks_klant1.png)
 
 <h2>Google Trends and KNMI data</h2>
 
