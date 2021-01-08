@@ -17,7 +17,7 @@ The train set is used to train the model, the validation set is used to validate
 
 <h2>Evaluation</h2>
 
-- Metrics
+For the evaluation
 
 <h2>Visualization</h2>
 
