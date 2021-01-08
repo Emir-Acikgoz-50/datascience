@@ -35,7 +35,7 @@ x_train = train.loc[:, train.columns != 'aantal_pakketten_volgende_dag']
 x_valid = validation.loc[:, validation.columns != 'aantal_pakketten_volgende_dag']
 x_test = test.loc[:, test.columns != 'aantal_pakketten_volgende_dag']
 ```
-This split can be visualed as follows.
+I also visualed this split, as the image down below.
 
 ![Split Visual](https://github.com/Rikku77/datascience/blob/master/portfolio/predictive_analysis/images/split_visual.png)
 
