@@ -49,9 +49,9 @@ From this visualization, we can conclude that there is no indication of the mode
 
 The scores are as follows:
 
-- Root Mean Squared Error: 737.815339168826
-- Mean Absolute Error: 435.90606774816166
-- R2_Score 0.8075204801379219
+- Root Mean Squared Error: 737.815339168826</br>
+- Mean Absolute Error: 435.90606774816166</br>
+- R2_Score 0.8075204801379219</br>
 
 <h2>Evaluation</h2>
 
@@ -59,8 +59,8 @@ For the evaluation i used the test set, to get a final unbiased evaluation. Just
 
 ![test pred](https://github.com/Rikku77/datascience/blob/master/portfolio/predictive_analysis/images/prediction_test.png)
 
-Root Mean Squared Error: 693.3821141491522
-Mean Absolute Error: 394.50638401761995
-R2_Score 0.8577826214275516
+Root Mean Squared Error: 693.3821141491522</br>
+Mean Absolute Error: 394.50638401761995</br>
+R2_Score 0.8577826214275516</br>
 
 *This image and the corresponding evaluation metrics can be found in the notebook mentioned earlier, in the conclusion.*
