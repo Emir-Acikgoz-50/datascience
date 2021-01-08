@@ -1,11 +1,14 @@
 <h1>3.1. Multivariate Lineair Regression</h1>
 
 - Why multivariate linear regression?
+
+
+
 - How has the model been configured.
 
-**Important**: For the sake of completion and consistency, i will be using the most complete notebook covering multivariate lineair regression. This notebook can be found [here](https://github.com/Rikku77/datascience/blob/master/notebooks/multi_variate_lineair_regression/mvlr_klant_125_gehele_tijdsreeks_compleet.ipynb).
 
-notebook:
+
+**Important**: For the sake of completion and consistency, i will be using the most complete notebook covering multivariate lineair regression. This notebook can be found [here](https://github.com/Rikku77/datascience/blob/master/notebooks/multi_variate_lineair_regression/mvlr_klant_125_gehele_tijdsreeks_compleet.ipynb).
 
 <h2>Training</h2>
 
