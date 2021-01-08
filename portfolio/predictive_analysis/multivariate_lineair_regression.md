@@ -41,16 +41,25 @@ So, as i mentioned before, i used all the data up until the year 2018 for the tr
 
 *This image can be found in the notebook mentioned earlier, at section 2. (Model).*
 
-<h2>Evaluation</h2>
-
-For the evaluation i used both the validation and the test set. I used the validation set first to see how the model would perform on unseen data and used the test set during the final conclusion. Nevertheless i used 3 different metrics to evaluate the model's performance. These are:
+From this visualization, we can conclude that there is no indication of the model overfitting nor underfitting. Moreover, to check how well the model performs, i also used some different evaluation metrics. these metrics are:
 
 - Root Mean Squared Error
 - Mean Absolute Error
 - R-Squared
 
+The scores are as follows:
 
+- Root Mean Squared Error: 737.815339168826
+- Mean Absolute Error: 435.90606774816166
+- R2_Score 0.8075204801379219
 
-<h2>Visualization</h2>
+<h2>Evaluation</h2>
 
-- 
+For the evaluation i used the test set, to get a final unbiased evaluation. Just like with the validation data, i used the same  metrics as before to evaluate the model's performance on the test set. The results are as follows
+
+![test pred](https://github.com/Rikku77/datascience/blob/master/portfolio/predictive_analysis/images/prediction_test.png)
+
+Root Mean Squared Error: 693.3821141491522
+Mean Absolute Error: 394.50638401761995
+R2_Score 0.8577826214275516
+
