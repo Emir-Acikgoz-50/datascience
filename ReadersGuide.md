@@ -44,3 +44,5 @@ Data preprocessing is all about preparing the data in such a way, that the model
 4.5. [Data visualization](https://github.com/Rikku77/datascience/blob/master/portfolio/data_preprocessing/data_visualization.md)</br>
 
 <h1>5. Communication</h1>
+
+5.1. [Communication](https://github.com/Rikku77/datascience/blob/master/portfolio/communication/communication.md)
