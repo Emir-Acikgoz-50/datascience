@@ -30,6 +30,8 @@ After we got the bigger dataset, i picked out a customer that i wanted to base m
 
 ![General overview customer 125](https://github.com/Rikku77/datascience/blob/master/portfolio/data_preprocessing/images/overview_125.png)
 
+Both of the weekday barchart and line chart visualizations would eventually lead to the use of features like: the month, the day of the week and whether a day fell on a holiday or not. Also, to effectively use these features, it was necessary to use a model like multivariate linear regression.
+
 <h2>Google Trends</h2>
 
 Among the exploration of the main datasets, i also used google trends to explore whether the use of certain search terms has some correlation with the amount of packages (***see notebook 4***). Because December was quite an irregular month, i decided to use certain terms related to certain events with pytrends. 
