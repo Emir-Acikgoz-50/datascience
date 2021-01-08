@@ -2,7 +2,7 @@
 
 **Student**: Rick Hagenaar<br/>
 **Student ID**: 17141869<br/>
-**Date**: ...<br/>
+**Date**: 08-02-2021<br/>
 
 <h1>Introduction</h1>
 
