@@ -35,8 +35,8 @@
 
 
 
-[3.1. Multi variate regression](https://github.com/Rikku77/datascience/blob/master/portfolio/predictive_analysis/multivariate_lineair_regression.md)
-[3.2. Neural networks](https://github.com/Rikku77/datascience/blob/master/portfolio/predictive_analysis/neural_networks.md)
+[3.1. Multi variate regression](https://github.com/Rikku77/datascience/blob/master/portfolio/predictive_analysis/multivariate_lineair_regression.md)</br>
+[3.2. Neural networks](https://github.com/Rikku77/datascience/blob/master/portfolio/predictive_analysis/neural_networks.md)</br>
 
 <h1>4. Data preprocessing</h1>
 
