@@ -13,7 +13,6 @@
 3. Predictive analysis
 4. Data preprocessing
 5. Communication
-6. Reflection and Evaluation
 
 
 <h1>1. Research project</h1>
