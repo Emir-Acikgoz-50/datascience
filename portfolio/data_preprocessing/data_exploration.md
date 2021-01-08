@@ -6,6 +6,7 @@ Notebooks:
 1. [Weekly average per weekday, per customer](https://github.com/Rikku77/datascience/blob/master/notebooks/exploratory_visuals/gem_pakketten_per_klant_per_weekdag.ipynb)
 2. [Yearly sum per customer](https://github.com/Rikku77/datascience/blob/master/notebooks/exploratory_visuals/per_klant_samen_aantal_pakketten_per_jaar.ipynb)
 3. [Exploratory analysis customer 125](https://github.com/Rikku77/datascience/blob/master/notebooks/exploratory_visuals/klant125.ipynb)
+4. [Google Trends](https://github.com/Rikku77/datascience/blob/master/notebooks/google_trends/trends_q4_2018.ipynb)
 
 <h2>Exploring the main datasets</h2>
 
@@ -29,7 +30,8 @@ After we got the bigger dataset, i picked out a customer that i wanted to base m
 
 ![General overview customer 125](https://github.com/Rikku77/datascience/blob/master/portfolio/data_preprocessing/images/overview_125.png)
 
-<h2>Google Trends and KNMI data</h2>
+<h2>Google Trends</h2>
 
+Among the exploration of the main datasets, i also used google trends to explore whether the use of certain search terms has some correlation with the amount of packages (***see notebook 4***). Because December was quite an irregular month, i decided to use certain terms related to certain events with pytrends. 
 
-
+![trends](https://github.com/Rikku77/datascience/blob/master/portfolio/data_preprocessing/images/google_trends.png)
