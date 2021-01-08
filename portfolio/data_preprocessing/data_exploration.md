@@ -18,11 +18,17 @@ At the start of the project we received a dataset from our project owner. This d
  
 This dataset includes data of 5 different customers from January 2015 up until June 2019. Sometime later, we received another dataset that included data for 300 customer, had around 500.000 rows and had an additional column. This column indicated whether a row was meant for training, validation or testing. However, since i wanted to define my own split, i decided to drop this column. 
 
-For my initial exploration, before we got the bigger dataset, i started to make exploratory visualizations of each customer to understand general patterns in the amount of packages that needed to be processed for each customer. I started out with plotting the average amount of packages for each day in the week, for each customer (***see notebook 1***). Because of these visualizations, i knew that the weekend (especially saturday) was something to keep in mind with regarding the amount of processed packages. For example, i the following graph, you can see that the average amount of packages on Saturday for this customer is almost zero, which was reoccurend for other customers as well. 
+For my initial exploration, before we got the bigger dataset, i started to make exploratory visualizations of each customer to understand general patterns in the amount of packages that needed to be processed for each customer. I started out with plotting the average amount of packages for each day in the week, for each customer (***see notebook 1***). Because of these visualizations, i knew that the weekend (especially saturday) was something to keep in mind with regarding the amount of processed packages. For example, in the following graph, you can see that the average amount of packages on Saturday for this customer is almost zero, which was reoccurend for other customers as well. 
 
 ![weekly_klant1](https://github.com/Rikku77/datascience/blob/master/portfolio/data_preprocessing/images/gem_wekelijks_klant1.png)
 
-Besides the weekly average, i also wanted to get some insight about yearly data (***see notebook 2***). Therefore, i decided to plot the amount of packages from each customer, for each year. This made me realize that, with some customer, amount of packages per year was zero. After some discussing with the project owner and the team, i concluded that this was probably because certain customers didn't exists yet, in some years.
+Besides the weekly average, i also wanted to get some insight about yearly data (***see notebook 2***). Therefore, i decided to plot the amount of packages from each customer, for each year. This made me realize that, with some customer, amount of packages per year was zero. After some discussing with the project owner and the team, i concluded that this was probably because certain customers didn't exists yet.
+
+After we got the bigger dataset, i picked out a customer that i wanted to base my predictions on, which was customer 125. But first i wanted to get an overview of this customer. This time used a graph more appropriate (a line graph), instead of a barchart (***see notebook 3***). Unlike the barcharts, this graph gave me more perspective on the overal shape of the data. For example, i came to the conclusion that, for this customer, December was an irregular month.
+
+![General overview customer 125](https://github.com/Rikku77/datascience/blob/master/portfolio/data_preprocessing/images/overview_125.png)
 
 <h2>Google Trends and KNMI data</h2>
+
+
 
