@@ -55,7 +55,7 @@ The scores are as follows:
 
 <h2>Evaluation</h2>
 
-For the evaluation i used the test set, to get a final unbiased evaluation. Just like with the validation data, i used the same  metrics as before to evaluate the model's performance on the test set. The results are as follows
+For the evaluation i used the test set, to get a final unbiased evaluation. Just like with the validation data, i used the same  metrics as before to evaluate the model's performance on the test set. The results are as follows.
 
 ![test pred](https://github.com/Rikku77/datascience/blob/master/portfolio/predictive_analysis/images/prediction_test.png)
 
