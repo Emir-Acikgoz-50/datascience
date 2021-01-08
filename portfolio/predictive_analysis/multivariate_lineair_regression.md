@@ -43,7 +43,11 @@ This codeblock and the corresponding visualization can be found in the notebook 
 
 <h2>Evaluation</h2>
 
-For the evaluation
+For the evaluation i used 3 different metrics. These are:
+
+- Root Mean Squared Error
+- Mean Absolute Error
+- R-Squared
 
 <h2>Visualization</h2>
 
