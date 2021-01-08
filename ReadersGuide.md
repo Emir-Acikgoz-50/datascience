@@ -38,41 +38,11 @@
 
 Data preprocessing is all about preparing the data in such a way, that the model can produce tangible results. Preprocessing is also about understanding the data you're working with. I've done a couple of things to prepare the data.
 
-<h2>4.1. Data exploration</h2>
-
-When it comes to data exploration i've done a couple of things. I've namely:
-
-- explored the main datasets
-- looked at google trend functionality
-- looked at other datasets like weather data (knmi)
-
-<h3>4.1.1. Exploring the main dataset</h3>
-At the first of the project we received a dataset from our project owner. This dataset was in csv (comma's separated values) format and consisted of nearly ten-thousand rows and 5 columns. The column definitions were as follows.
-
-1. **index column**: Signifies the index of each row, starting from zero
-2. **process day**: Indicates the day in which a certain amount of packages were processed.
-3. **customer id**: The id of the customer
-4. **package amount**: the amount of packages for that day
-5. **package amount next day**: the amount of packages for the next day
-  
-<h2>4.2. Data cleansing</h2>
-
-When it comes to cleaning the data, i haven't realy done much. This is because the dataset was already quite clean. For example, the dataset didn't contain any missing or inconsistent values. The only cleansing that i've realy done was parsing date types and setting the index to the process day, for easier time slicing.
-
-```
-# Read CSV file
-df_postnl = pd.read_csv('/datc/parcel/notebooks/data/postnl/20201014_300_klanten.csv', parse_dates=[0], index_col=[0])
-```
-
-<h2>4.3. Data preparation</h2>
-
-
-
-<h2>4.4. Data explanation</h2>
-
-
-
-<h2>4.5. Data visualization</h2>
+4.1. [Data exploration]()
+4.2. [Data cleansing]()
+4.3. [Data preparation]()
+4.4. [Data explanation]()
+4.5. [Data visualization]()
 
 
 
