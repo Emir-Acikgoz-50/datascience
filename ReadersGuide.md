@@ -35,37 +35,8 @@
 
 
 
-<h2>3.1. Multi variate regression</h2>
-
-
-
-<h3>3.1.1. Training</h3>
-
-
-
-<h3>3.1.2. Evaluation</h3>
-
-
-
-<h3>3.1.3. Visualization</h3>
-
-
-
-<h2>3.2. Neural networks</h2>
-
-
-
-<h3>3.2.1. Training</h3>
-
-
-
-<h3>3.2.2. Evaluation</h3>
-
-
-
-<h3>3.2.3. Visualization</h3>
-
-
+[3.1. Multi variate regression](https://github.com/Rikku77/datascience/blob/master/portfolio/predictive_analysis/multivariate_lineair_regression.md)
+[3.2. Neural networks](https://github.com/Rikku77/datascience/blob/master/portfolio/predictive_analysis/neural_networks.md)
 
 <h1>4. Data preprocessing</h1>
 
