@@ -12,6 +12,10 @@
 
 **Overfitting**:
 
+**Generalization**:
+
+**Cross-validation**:
+
 <h2>Models</h2>
 
 **Multivariate Lineair Regression**:
