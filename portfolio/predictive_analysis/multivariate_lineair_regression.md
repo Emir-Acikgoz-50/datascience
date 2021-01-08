@@ -63,3 +63,4 @@ Root Mean Squared Error: 693.3821141491522
 Mean Absolute Error: 394.50638401761995
 R2_Score 0.8577826214275516
 
+*This image and the corresponding evaluation metrics can be found in the notebook mentioned earlier, in the conclusion.*
