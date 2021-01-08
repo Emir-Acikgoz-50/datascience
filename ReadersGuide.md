@@ -20,7 +20,7 @@
 
 1.1. [Task Definition](https://github.com/Rikku77/datascience/blob/master/portfolio/research_project/task_definition.md)</br>
 1.2. [Planning and Approach](https://github.com/Rikku77/datascience/blob/master/portfolio/research_project/planning.md)</br>
-1.3. [Evaluation](https://github.com/Rikku77/datascience/blob/master/portfolio/research_project/evaluation.md)</br>
+1.3. [Reflection and Evaluation](https://github.com/Rikku77/datascience/blob/master/portfolio/research_project/evaluation.md)</br>
 1.4. [Conclusions](https://github.com/Rikku77/datascience/blob/master/portfolio/research_project/conclusions.md)</br>
 
 <h1>2. Domain knowledge</h1>
@@ -45,7 +45,3 @@ Data preprocessing is all about preparing the data in such a way, that the model
 4.5. [Data visualization](https://github.com/Rikku77/datascience/blob/master/portfolio/data_preprocessing/data_visualization.md)</br>
 
 <h1>5. Communication</h1>
-
-
-<h1>6. Reflection and Evaluation</h1>
-
