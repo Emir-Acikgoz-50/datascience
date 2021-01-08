@@ -13,12 +13,10 @@
 3. Predictive analysis
 4. Data preprocessing
 5. Communication
-6. REflection and Evaluation
+6. Reflection and Evaluation
 
 
 <h1>1. Research project</h1>
-
-
 
 1.1. [Task Definition](https://github.com/Rikku77/datascience/blob/master/portfolio/research_project/task_definition.md)</br>
 1.2. [Planning and Approach](https://github.com/Rikku77/datascience/blob/master/portfolio/research_project/planning.md)</br>
@@ -32,8 +30,6 @@
 2.3. [Jargon and terminology](https://github.com/Rikku77/datascience/blob/master/portfolio/domain_knowledge/jargon_and_terminology.md)</br>
 
 <h1>3. Predictive analysis</h1>
-
-
 
 3.1. [Multi variate regression](https://github.com/Rikku77/datascience/blob/master/portfolio/predictive_analysis/multivariate_lineair_regression.md)</br>
 3.2. [Neural networks](https://github.com/Rikku77/datascience/blob/master/portfolio/predictive_analysis/neural_networks.md)</br>
