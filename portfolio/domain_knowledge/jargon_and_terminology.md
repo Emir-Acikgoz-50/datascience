@@ -1,8 +1,8 @@
 <h1>Jargon and Terminology</h1>
 
-**Multivariate Lineair Regression**:
+<h2>General</h2>
 
-**Feature**:
+**Feature Engineering**:
 
 **Data Pre-processing**:
 
@@ -11,3 +11,9 @@
 **Underfitting**:
 
 **Overfitting**:
+
+<h2>Models</h2>
+
+**Multivariate Lineair Regression**:
+
+**Neural Networks**:
