@@ -4,7 +4,8 @@ When it comes to data exploration i've also mainly looked at the main dataset an
 
 Notebooks:
 1. [Weekly average per weekday, per customer](https://github.com/Rikku77/datascience/blob/master/notebooks/exploratory_visuals/gem_pakketten_per_klant_per_weekdag.ipynb)
-2. [Yearly sum per customer](https://github.com/Rikku77/datascience/blob/master/notebooks/exploratory_visuals/per_klant_samen_aantal_pakketten_per_jaar.ipynb) 
+2. [Yearly sum per customer](https://github.com/Rikku77/datascience/blob/master/notebooks/exploratory_visuals/per_klant_samen_aantal_pakketten_per_jaar.ipynb)
+3. [Exploratory analysis customer 125](https://github.com/Rikku77/datascience/blob/master/notebooks/exploratory_visuals/klant125.ipynb)
 
 <h2>Exploring the main datasets</h2>
 
