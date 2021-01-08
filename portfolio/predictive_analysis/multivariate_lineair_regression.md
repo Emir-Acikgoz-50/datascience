@@ -2,12 +2,6 @@
 
 - Why multivariate linear regression?
 
-
-
-- How has the model been configured.
-
-
-
 **Important**: For the sake of completion and consistency, i will be using the most complete notebook covering multivariate lineair regression. This notebook can be found by clicking the following link.
 
 - [Notebook](https://github.com/Rikku77/datascience/blob/master/notebooks/multi_variate_lineair_regression/mvlr_klant_125_gehele_tijdsreeks_compleet.ipynb).
@@ -49,11 +43,13 @@ So, as i mentioned before, i used all the data up until the year 2018 for the tr
 
 <h2>Evaluation</h2>
 
-For the evaluation i used 3 different metrics. These are:
+For the evaluation i used both the validation and the test set. I used the validation set first to see how the model would perform on unseen data and used the test set during the final conclusion. Nevertheless i used 3 different metrics to evaluate the model's performance. These are:
 
 - Root Mean Squared Error
 - Mean Absolute Error
 - R-Squared
+
+
 
 <h2>Visualization</h2>
 
