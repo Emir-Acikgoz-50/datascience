@@ -6,6 +6,12 @@ Notebooks:
 
 1. [Multivariate Linear Regression](https://github.com/Rikku77/datascience/blob/master/notebooks/multi_variate_lineair_regression/mvlr_klant_125_gehele_tijdsreeks_compleet.ipynb).
 
+**Content:**
+
+- Feature Selection
+- Train, validation, test split
+- Scaling
+
 Before training the model, i split the dataset into the following sets:
 
 - Train
