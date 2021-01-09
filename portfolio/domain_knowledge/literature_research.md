@@ -6,7 +6,12 @@ During the project, i looked into literature to get some insights on how machine
 - Artificial Neural Networks
 - HWES
 
+Another side of my literature research, was techinally oriented. Sometimes i didn't know how to implement something in python, so documentation from the imported libraries like: Pandas<sup>[3]</sup> and sklearn<sup>[4]</sup>, made things relatively easy. 
+
+
 Bibliography:
 
 1. Müller, A. C., & Guido, S. (2016). Introduction to Machine Learning with Python: A Guide for Data Scientists (1st ed.) [E-book]. O’Reilly Media. https://doi.org/10.1002/9781119557500.ch1
 2. Alon, I., Qi, M., & Sadowski, R. J. (2001). Forecasting aggregate retail sales: Journal of Retailing and Consumer Services, 8(3), 147–156. https://doi.org/10.1016/s0969-6989(00)00011-4
+3. pandas documentation. (2020, December 26). Pandas. https://pandas.pydata.org/pandas-docs/stable/
+4. sklearn documentation. (2017). Sklearn. https://sklearn.org/documentation.html
