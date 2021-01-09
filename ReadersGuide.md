@@ -24,9 +24,10 @@
 
 <h1>2. Domain knowledge</h1>
 
-2.1. [Literature research](https://github.com/Rikku77/datascience/blob/master/portfolio/domain_knowledge/literature_research.md)</br>
-2.2. [Courses](https://github.com/Rikku77/datascience/blob/master/portfolio/domain_knowledge/courses.md)</br>
-2.3. [Jargon and terminology](https://github.com/Rikku77/datascience/blob/master/portfolio/domain_knowledge/jargon_and_terminology.md)</br>
+2.1. [Introduction in the subject field]()
+2.2. [Literature research](https://github.com/Rikku77/datascience/blob/master/portfolio/domain_knowledge/literature_research.md)</br>
+2.3. [Courses](https://github.com/Rikku77/datascience/blob/master/portfolio/domain_knowledge/courses.md)</br>
+2.4. [Jargon and terminology](https://github.com/Rikku77/datascience/blob/master/portfolio/domain_knowledge/jargon_and_terminology.md)</br>
 
 <h1>3. Predictive analysis</h1>
 
