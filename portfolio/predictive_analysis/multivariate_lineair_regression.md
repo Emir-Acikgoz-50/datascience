@@ -2,9 +2,9 @@
 
 The primary model that i've worked on was multivariate lineair regression. I decided to use this model because our problem was a regression problem and i wanted to use multiple features, like: the day of the week, holidays and the amount of packages from last week. For the implementation, i used the *LinearRegression* function from *sklearn*. 
 
-**Important**: For the sake of completion and consistency, i will be using the most complete notebook covering multivariate lineair regression. This notebook can be found by clicking the following link.
+Notebooks:
 
-- [Notebook](https://github.com/Rikku77/datascience/blob/master/notebooks/multi_variate_lineair_regression/mvlr_klant_125_gehele_tijdsreeks_compleet.ipynb).
+1. [Multivariate Linear Regression](https://github.com/Rikku77/datascience/blob/master/notebooks/multi_variate_lineair_regression/mvlr_klant_125_gehele_tijdsreeks_compleet.ipynb).
 
 Before training the model, i split the dataset into the following sets:
 
