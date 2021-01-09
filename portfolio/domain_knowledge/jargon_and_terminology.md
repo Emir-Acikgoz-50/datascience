@@ -1,4 +1,4 @@
-<h1>Jargon and Terminology</h1>
+<h1>2.4. Jargon and Terminology</h1>
 
 <h2>General</h2>
 
