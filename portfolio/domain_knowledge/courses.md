@@ -1,4 +1,4 @@
-<h1>Courses</h1>
+<h1>2.3. Courses</h1>
 
 During the first few weeks of the minor there were a number of data science courses i had to follow, which have been provided by DataCamp. I've completed the following courses:
 
