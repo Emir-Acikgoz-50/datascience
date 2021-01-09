@@ -6,12 +6,17 @@ Notebooks:
 
 1. [Multivariate Linear Regression](https://github.com/Rikku77/datascience/blob/master/notebooks/multi_variate_lineair_regression/mvlr_klant_125_gehele_tijdsreeks_compleet.ipynb).
 
-**Content:**
+<h2>Feature Selection</h2>
 
-- Feature Selection
-- Train, validation, test split
-- Scaling
+Since i was going to use, multivariate linear regression, i was most certainly going to use multi features (***see notebook 1, section 1.3***). When it came to feature selection, i had used the following:
 
+- The amount of packages
+- the day of the week
+- the month
+- the amount of packages from 7 days earlier 
+- the rolling average of 7 days
+
+Corresponding to the selection of these features, i had constructed a correlation matrix. From this correlation matrix i concluded that the weekday, the rolling average and the amount of packaged from 7 days earlier were quite well correlated with the amount of packages for the next day, compared to the month and holiday. I reckon that the reason for this is because there aren't a lot examples of holidays in a period of 3 years and, if this case, the month itself might not say a lot about a daily prediction. Nevertheless i used all of these features for the model.
 
 <h2>Train, validation, test split</h2>
 
