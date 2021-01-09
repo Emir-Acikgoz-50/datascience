@@ -6,7 +6,7 @@ During the project, i looked into literature to get some insights on how machine
 - Artificial Neural Networks
 - HWES
 
-Another side of my literature research, was techinally oriented. Sometimes i didn't know how to implement something in python, so documentation from the imported libraries like: Pandas<sup>[3]</sup> and sklearn<sup>[4]</sup>, made things relatively easy. 
+Another side of my literature research, was techinally oriented. Sometimes i didn't know how to implement something in python, so documentation from imported libraries like: Pandas<sup>[3]</sup> and sklearn<sup>[4]</sup>, were very helpful. 
 
 
 Bibliography:
