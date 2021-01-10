@@ -14,11 +14,11 @@ My contributions and tasks during the project consisted of, exploring the main d
 
 <h3>Action</h3>
 
-My approach concerning these contributions, was to use examples and the lectures as a guideline. For example, when i started to devise a researchplan, i used the research lectures, combined with a template on the internet<sup>[1]</sup> to come up with a research question, sub questions, a problem domain and so on. I approached things in this manner, because i wanted to stay consistent with the lectures, what we may get graded on and i didn't want to reinvent the wheel. 
+My approach concerning these contributions, was to use examples and the lectures as a guideline. For example, when i started to devise a researchplan, i used the research lectures, combined with a template on the internet<sup>[1]</sup> to come up with a research question, sub questions, a problem domain and so on. I approached things in this manner, because i wanted to stay consistent with the lectures, what i may get graded on and i didn't want to reinvent the wheel. 
 
 <h3>Result</h3>
 
-
+My contributions resulted in a lot of insights about the data that we got. For example, a barchart of the average amount of packages per weekday, made me realize that weekends (especially saturdays) were quite irregular when it came to the amount of packages. Besides that, i also made a decently performing multivariate linear regression model that can be used to make predictions on the amount of packages that need to be processed for a certain customer.  
 
 <h3>Reflection</h3>
 
