@@ -6,11 +6,11 @@ During the project there were things that went well, but also things that could'
 
 <h3>Situation</h3>
 
-My contribution during the project mainly consisted of, exploring the main dataset (at the start of the project) and experimenting with multivariate linear regression. 
+My contribution during the project mainly consisted of, exploring the main dataset (at the start of the project) by making exploratory visualizations and experimenting with multivariate linear regression. 
 
 <h3>Task</h3>
 
-
+With 
 
 <h3>Action</h3>
 
