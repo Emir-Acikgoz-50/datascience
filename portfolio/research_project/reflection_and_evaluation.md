@@ -8,7 +8,7 @@ During the project there were things that went well, but also things that could'
 
 During the project we worked in phases according to a global planning. This means that with phase, my contributions would be a bit different but still corresponding to the goal of that phase. For example, we started of the project with 3 to 4 weeks of devising a strategy as to how we were going to execute our research and exploring the main dataset. After that we started making predictions with several models, fune tuning them with different techniques and features. Lastly, focused on finishing the predictive models and writing the paper. 
 
-<h3>Tasks</h3>
+<h3>Task</h3>
 
 My contributions and tasks during the project consisted of, exploring the main dataset (at the start of the project) by making exploratory visualizations, devising a research plan, experimenting with google trends, implementing multivariate linear regression and writing parts of the paper.
 
@@ -16,7 +16,7 @@ My contributions and tasks during the project consisted of, exploring the main d
 
 My approach concerning these contributions, was to use examples and the lectures as a guideline. For example, when i started to devise a researchplan, i used the research lectures, combined with a template on the internet<sup>[1]</sup> to come up with a research question, sub questions, a problem domain and so on. I approached things in this manner, because i wanted to stay consistent with the lectures, what we may get graded on and i didn't want to reinvent the wheel. 
 
-<h3>Results</h3>
+<h3>Result</h3>
 
 
 
