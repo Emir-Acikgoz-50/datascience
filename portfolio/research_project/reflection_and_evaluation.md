@@ -4,7 +4,7 @@ During the project there were things that went well, but also things that could'
 
 <h2>Reflection on own contribution</h2>
 
-
+During the project i've mainly worked on multivariate linear regression.
 
 <h2>Reflection on own learning objectives</h2>
 
