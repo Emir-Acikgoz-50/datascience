@@ -14,9 +14,9 @@ My contributions and tasks during the project consisted of, exploring the main d
 
 <h3>Action</h3>
 
+My approach concerning these contributions, was to use examples and the lectures as a guideline. For example, when i started to devise a researchplan, i used the research lectures, combined with a template on the internet<sup>[1]</sup> to come up with a research question, sub questions, a problem domain and so on. I approached things in this manner, because i wanted to stay consistent with the lectures, what we may get graded on and i didn't want to reinvent the wheel. 
 
-
-<h3>Result</h3>
+<h3>Results</h3>
 
 
 
@@ -47,3 +47,8 @@ My contributions and tasks during the project consisted of, exploring the main d
 <h3>Result</h3>
 
 <h3>Reflection</h3>
+
+
+Bibliography:
+
+1. Benders, L. (2020, October 26). Je Plan van Aanpak (PvA) in een keer goedgekeurd. Scribbr. https://www.scribbr.nl/scriptie-structuur/plan-van-aanpak/
