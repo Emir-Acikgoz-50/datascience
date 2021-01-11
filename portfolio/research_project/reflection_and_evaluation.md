@@ -22,7 +22,7 @@ My contributions resulted in a lot of insights about the data that we got. For e
 
 <h3>Reflection</h3>
 
-
+from the project and my own contributions, i learned how to implement a model from pre-processing the data, to evaluating the model and properly visualizing the data in python. I am very happy with what i learned, because as a software engineer it is very handy to know how to process and visualize data properly. I also think, as we move more towards prescriptive analytics, understanding how machine learning and deep learning works can be valuable when engineering software and working with data.
 
 <h2>Reflection on own learning objectives</h2>
 
