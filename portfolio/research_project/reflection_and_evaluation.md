@@ -52,11 +52,11 @@ I am pleased with what i learned and i think the knowledge that i've acquired ca
 
 <h3>Situation</h3>
 
-The research project has been done in a group. This meant that, as a group, we all hold a collective responsibility to ensure that the endproduct is what it should be. Therefore, working as a proper team is paramount is to be succesfull, no matter the endeavour. However, to ensure that the project was on the right course, good communication amongst the group members and a manifestation of both individual and collective responsability was called for. To strenghen both of these things, any group needs a leader that sets sail into the right direction, making sure everyone on the ship does their part.
+The research project has been done in a group. This meant that, as a group, we all hold a collective responsibility to ensure that the endproduct is what it should be. Therefore, working as a proper team is paramount to be succesfull, no matter the endeavour. Therefore, to ensure that the project was on the right course, good communication amongst the group members and a manifestation of both individual and collective responsability was called for. To strenghen both of these things, any group needs a leader that sets sail into the right direction, making sure everyone on the ship does their part.
 
 <h3>Task</h3>
 
-I wanted to bring it upon myself to force myself into a leading position from the start, to make sure we were steering in the right direction and to make sure everyone was on the same page. This included tasks like devising a research strategy, Organizing and leading scrum events like sprint planning sesisons, daily stand-ups and retrospectives and ensuring collaborative teamwork amongst all group members. 
+I wanted to bring it upon myself to force myself into a leading position from the start, to make sure we were steering in the right direction and to make sure everyone was on the same page. This included tasks like devising a research strategy, Organizing and leading scrum events like sprint planning sessions, daily stand-ups and retrospectives and ensuring collaborative teamwork amongst all group members. 
 
 <h3>Action</h3>
 
@@ -64,10 +64,17 @@ To steer the group into the right direction, my approach was to try and be upfro
 
 <h3>Result</h3>
 
-
+The result of this endeavour could only be discribed as a complete failure on my part. This has in part to do with the fact that i wasn't consistent at all and half of the time i didn't even know whether i was right or wrong. This basically resulted in a half-assed strategy that wasn't going to work, despite running with it because no-one objected and i figured it would all work itself out in the end. Another big problem was a lack assertive behaviour and not speaking up when i should have. This lead to the manifestation of problems that could've easily be prevented, if i spoke up about them. I think this mainly to do with me being too agreeable and having the tendency to avoid conflict. 
 
 <h3>Reflection</h3>
 
+Eventhough i am pleased with the end product itself, i still think we dropped the ball a bit when it comes to working in a consistent manner and working as a unified team. All in all, i am genuinely happy with how it went, despite the problems. Because this project finally made me realize my own flaws as an individual and showed me what i need to work on so i can become a better person and become more compatent as a software engineer. These flaws mainly consists of:
+
+- Not taking enough responbility as an individual, which results in dishonest behaviour and an accumulation of other kinds of problems.
+- Not being assertive enough, therefore not speaking up when i need to.
+- Not knowing how to organize and come up with a sufficient plan, which results in a subpar and inconsistent work ethic.
+
+These are big problems that i need to reflect upon, since they're not suddenly going away and i am bound to run into them again.
 
 Bibliography:
 
