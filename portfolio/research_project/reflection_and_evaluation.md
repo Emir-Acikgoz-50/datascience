@@ -38,25 +38,33 @@ My task regarding this learning objective was to get comfortable with python and
 
 <h3>Action</h3>
 
-
+To fullfill this task, i first needed to learn how to work with python. The DataCamp courses and documentation from several different libraries helped me with this. I also used the lectures to get more insights on how what the necessary steps are to set up a proper machine learning model.
 
 <h3>Result</h3>
 
-
+As a result, i learned the basics of working with python and libraries like pandas, numpy, matplotlib and sklearn. I also know how to settup a machine learning model and i've tipped my toes into the world of deep learning and neural networks.
 
 <h3>Reflection</h3>
 
-
+I am pleased with what i learned and i think the knowledge that i've acquired can be really usefull in my software engineering career. Eventhough i wasn't able to work with neural networks properly, i think i've constructed a sufficient basis to proceed with machine learning and deep learning in the future. 
 
 <h2>Reflection on the group as a whole</h2>
 
 <h3>Situation</h3>
 
+
+
 <h3>Task</h3>
+
+
 
 <h3>Action</h3>
 
+
+
 <h3>Result</h3>
+
+
 
 <h3>Reflection</h3>
 
