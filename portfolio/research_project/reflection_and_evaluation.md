@@ -30,13 +30,23 @@ from the project and my own contributions, i learned how to implement a model fr
 
 <h3>Situation</h3>
 
+Durng the project, my primary learning objective was to get an idea of machine learning and how to code in python. As a software engineer, knowing how a machine learning model and pipeline is supposed to be implemented can be very valuable and python is one of the most used programming languages. 
+
 <h3>Task</h3>
+
+
 
 <h3>Action</h3>
 
+
+
 <h3>Result</h3>
 
+
+
 <h3>Reflection</h3>
+
+
 
 <h2>Reflection on the group as a whole</h2>
 
