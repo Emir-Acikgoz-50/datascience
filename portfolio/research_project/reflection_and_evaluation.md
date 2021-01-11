@@ -30,11 +30,11 @@ from the project and my own contributions, i learned how to implement a model fr
 
 <h3>Situation</h3>
 
-Durng the project, my primary learning objective was to get an idea of machine learning and how to code in python. As a software engineer, knowing how a machine learning model and pipeline is supposed to be implemented can be very valuable and python is one of the most used programming languages. 
+Durng the project, my primary learning objective was to get an idea of machine learning and how to code in python. As a software engineer, knowing how to set up a predicitve model can be very valuable to any organization and python is one of the most used and versatile programming languages. 
 
 <h3>Task</h3>
 
-
+My task regarding this learning objective was to get comfortable with python and all of the steps that are mandatory to implement a proper machine learning model. 
 
 <h3>Action</h3>
 
