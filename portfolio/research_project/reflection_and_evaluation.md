@@ -1,6 +1,6 @@
 <h1>Project Evaluation</h1>
 
-During the project there were things that went well, but also things that could've been better. I think it is important to reflect on what went well and what didn't, so that i can make better decisions in the future. Therefore, i will split up this evaluation into four parts. First i will go into detail about my own contribution, secondly i will reflect on what i learned and lastly i will reflect on the group project as a whole. All three evaluations will be done using the STARR method
+During the project there were things that went well, but also things that could've been better. I think it is important to reflect on what went well and what didn't, so that i can make better decisions in the future. Therefore, i will split up this evaluation into three parts. First i will go into detail about my own contribution, secondly i will reflect on what i learned and then i will reflect on the group project as a whole. Lastly, i will also dedicate a small part to potential future work on the project. All three evaluations will be done using the STARR method
 
 <h2>Reflection on own contribution</h2>
 
@@ -73,6 +73,10 @@ Eventhough i am pleased with the end product itself, i still think we dropped th
 - Not knowing how to organize and come up with a sufficient plan, which results in a subpar and inconsistent work ethic.
 
 These are big problems that i need to reflect upon, since they're not suddenly going away and i am bound to run into them again.
+
+<h2>Future work</h2>
+
+Regarding the multivariate linear regression model, i think it could be further optimized by PostNL in the future, by adding more features and training on more examples. There is also the possibility of encapsulating the model in a function, so that the model could be trained and make predictions for multiple customers. This also opens the possibility to process the predictions into a dashboard that shows the predictions in a visually pleasing manner, for each customer. 
 
 Bibliography:
 
