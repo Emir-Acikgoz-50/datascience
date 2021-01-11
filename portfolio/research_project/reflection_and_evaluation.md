@@ -52,7 +52,7 @@ I am pleased with what i learned and i think the knowledge that i've acquired ca
 
 <h3>Situation</h3>
 
-The research project has been done in a group. This meant that, as a group, we all hold a collective responsibility to ensure that the endproduct is what it should be. Therefore, working as a proper team is paramount is to be succesfull, no matter the endeavour. However, to ensure that the project was on the right course, good communication amongst the group memebrs and a manifestation of both individual and collective responsability was called for. To strenghen both of these things, any group needs a leader that sets sail into the right direction, making sure everyone on the ship does their part.
+The research project has been done in a group. This meant that, as a group, we all hold a collective responsibility to ensure that the endproduct is what it should be. Therefore, working as a proper team is paramount is to be succesfull, no matter the endeavour. However, to ensure that the project was on the right course, good communication amongst the group members and a manifestation of both individual and collective responsability was called for. To strenghen both of these things, any group needs a leader that sets sail into the right direction, making sure everyone on the ship does their part.
 
 <h3>Task</h3>
 
