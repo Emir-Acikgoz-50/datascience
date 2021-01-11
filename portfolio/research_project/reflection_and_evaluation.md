@@ -2,7 +2,7 @@
 
 bron: https://www.scribbr.nl/stage/starr-methode/
 
-During the project there were things that went well, but also things that could've been better. I think it is important to reflect on what went well and what didn't, so that i can make better decisions in the future. Therefore, i will split up this evaluation into four parts. First i will go into detail about my own contribution, secondly i will reflect on what i learnedand lastly i will reflect on the group as a whole. All three evaluations will be done using the STARR method
+During the project there were things that went well, but also things that could've been better. I think it is important to reflect on what went well and what didn't, so that i can make better decisions in the future. Therefore, i will split up this evaluation into four parts. First i will go into detail about my own contribution, secondly i will reflect on what i learnedand lastly i will reflect on the group project as a whole. All three evaluations will be done using the STARR method
 
 <h2>Reflection on own contribution</h2>
 
@@ -48,19 +48,19 @@ As a result, i learned the basics of working with python and libraries like pand
 
 I am pleased with what i learned and i think the knowledge that i've acquired can be really usefull in my software engineering career. Eventhough i wasn't able to work with neural networks properly, i think i've constructed a sufficient basis to proceed with machine learning and deep learning in the future. 
 
-<h2>Reflection on the group as a whole</h2>
+<h2>Reflection on the group project as a whole</h2>
 
 <h3>Situation</h3>
 
-
+The research project has been done in a group. This meant that, as a group, we all hold a collective responsibility to ensure that the endproduct is what it should be. Therefore, working as a proper team is paramount is to be succesfull, no matter the endeavour. However, to ensure that the project was on the right course, good communication amongst the group memebrs and a manifestation of both individual and collective responsability was called for. To strenghen both of these things, any group needs a leader that sets sail into the right direction, making sure everyone on the ship does their part.
 
 <h3>Task</h3>
 
-
+I wanted to bring it upon myself to force myself into a leading position from the start, to make sure we were steering in the right direction and to make sure everyone was on the same page. This included tasks like devising a research strategy, Organizing and leading scrum events like sprint planning sesisons, daily stand-ups and retrospectives and ensuring collaborative teamwork amongst all group members. 
 
 <h3>Action</h3>
 
-
+To steer the group into the right direction, my approach was to try and be upfront, consistent and honest. To help myself, i thought a lot about how to plan and come up with a strategy regarding the execution of the research project. I wanted it to make sense so that the strategy would be easy to implement and it could be justified as a proper way of managing a research project.
 
 <h3>Result</h3>
 
