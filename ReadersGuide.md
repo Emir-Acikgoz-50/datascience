@@ -35,8 +35,6 @@
 
 <h1>4. Data preprocessing</h1>
 
-Data preprocessing is all about preparing the data in such a way, that the model can produce tangible results. Preprocessing is also about understanding the data you're working with. I've done a couple of things to prepare the data.
-
 4.1. [Data exploration](https://github.com/Rikku77/datascience/blob/master/portfolio/data_preprocessing/data_exploration.md)</br>
 4.2. [Data cleansing](https://github.com/Rikku77/datascience/blob/master/portfolio/data_preprocessing/data_cleansing.md)</br>
 4.3. [Data preparation](https://github.com/Rikku77/datascience/blob/master/portfolio/data_preprocessing/data_preparation.md)</br>
