@@ -4,8 +4,6 @@
 **Student ID**: 17141869<br/>
 **Date**: 12-01-2021<br/>
 
-<h1>Introduction</h1>
-
 <h1>Table of content</h1>
 
 1. Research project
